@@ -1,0 +1,1 @@
+ls -U -A -p | fgrep -v . | tr '\n' ','

@@ -1,0 +1,6 @@
+Credentials cache: API:DE65540A-B192-4E0A-A66B-4B0DABE51BBE
+        Principal: mreymond@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug  2 17:06:28 2021  Aug  3 03:06:28 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Aug  2 17:06:29 2021  Aug  3 03:06:28 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
